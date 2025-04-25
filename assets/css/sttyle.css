@@ -1,0 +1,15 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+a {
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  transition: background 0.3s ease;
+}
